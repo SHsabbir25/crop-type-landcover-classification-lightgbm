@@ -81,7 +81,7 @@ Accurate crop and land cover maps serve as critical evidence for:
 ```
 crop-type-landcover-classification-lightgbm/
 │
-├── LightGBM_for_Crop_Type_and_Land_Classification.ipynb
+├── Code/LightGBM_for_Crop_Type_and_Land_Classification.ipynb
 ├── README.md
 └── requirements.txt
 ```
